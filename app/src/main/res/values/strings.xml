@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="ingrese_su_texto">Ingrese su texto</string>
+    <string name="ingrese_nuevamente_se_texto">Ingrese nuevamente se texto</string>
+    <string name="aqui_aparecera_el_resultado">Aqui aparecera el resultado</string>
+    <string name="comparar">Comparar</string>
+    <string name="Ingrese_nuevamente_su_texto">ingrese_nuevamente_su_texto</string>
+    <string name="nuevamente">Ingrese nuevamente su texto</string>
+</resources>
